@@ -2,7 +2,7 @@
 
 > **Note:** Currently published on Cloudflare Pages on an experimental basis
 
-This application was created by four people for submission to the App Koshien!  
+This application was created by four people for submission to the Appli Koshien!  
 The submitted code can be viewed in [this](https://github.com/howsky-dev/frontend/tree/4db9a1e69a06ba5bb073ffc47cf20da2f25f6e13) repository
 
 ### Contact Us
